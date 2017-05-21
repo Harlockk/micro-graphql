@@ -1,0 +1,6 @@
+type Generation {
+  id: Int!
+  name: String!
+  mainRegion: String
+  abilities: [Ability]
+}

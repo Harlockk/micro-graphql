@@ -1,0 +1,5 @@
+type PokemonAbility {
+  isHidden: Boolean
+  slot: Int
+  ability: Ability
+}

@@ -1,0 +1,5 @@
+type Ability {
+  id: Int!
+  name: String!
+  generation: Generation
+}

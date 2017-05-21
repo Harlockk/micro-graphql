@@ -1,0 +1,9 @@
+## IDE
+.idea
+.vscode
+
+## NodeJS
+node_modules
+
+# Testing
+coverage

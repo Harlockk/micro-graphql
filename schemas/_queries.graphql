@@ -1,0 +1,4 @@
+type Query {
+  pokemon(id: Int, name: String): Pokemon
+  generation(name: String) : Generation
+}
